@@ -12,5 +12,6 @@ button.addEventListener('click', function () {
       alert("Welcome!");
   } else {
       alert("go away you are not welcome >:(")
+    document.body.children
   }
 });
