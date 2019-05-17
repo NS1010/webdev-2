@@ -1,4 +1,18 @@
 h1 {
   color:green;
-  background-color:
+  background-color:#1a681a;
   {
+
+.title {
+  background-color: cornflowerblue;
+}
+    
+#vx viewport width % of width
+#px pixels
+
+.content {
+        width: 50vw; 
+        border: 1px solid #000;
+        
+    }
+    
